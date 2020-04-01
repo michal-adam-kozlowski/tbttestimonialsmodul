@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import TestimonialsWrapper from './TestimonialsWrapper.js'
 
 function App() {
-  return (
-    <TestimonialsWrapper/>
-  );
+    return ( <
+        TestimonialsWrapper / >
+    );
 }
 
 export default App;
