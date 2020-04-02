@@ -20,14 +20,11 @@ sans-serif;
 }
 
 .testimonialText {
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    top: 50%;
+  position: absolute;
+    top: 45%;
     width: 90%;
-    text-overflow: ellipsis;
     overflow: hidden;
-    margin-bottom: 15px;
+    margin: auto 20px;
     color: $fColor;
 }
 
